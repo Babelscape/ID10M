@@ -1,7 +1,7 @@
  ![logo](img/id10m_logo.png)
 --------------------------------------------------------------------------------
 
-Datasets and source code for the paper [ID10M: Idiom Identification in 10 Languages]().
+Datasets and source code for the paper [ID10M: Idiom Identification in 10 Languages](https://www.researchgate.net/publication/360515160_ID10M_Idiom_Identification_in_10_Languages).
 
 **Please consider citing our work if you use data and/or code from this repository.**
 
