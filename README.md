@@ -98,5 +98,5 @@ We underline that the source from which the raw sentences have been extracted is
 <br>
 
 # Acknowledgments
-We gratefully acknowledge the support of the **ERC Consolidator Grant MOUSSE No. 726487** under the European Union’s Horizon2020 research and innovation programme ([http://mousse-project.org/](http://mousse-project.org/)).
+We gratefully acknowledge the support of the **ERC Consolidator Grant MOUSSE No. 726487** under the European Union’s Horizon 2020 research and innovation programme ([http://mousse-project.org/](http://mousse-project.org/)) and the support of the **ELEXIS project No. 731015** under the European Union’s Horizon 2020 ([[http://mousse-project.org/](https://cordis.europa.eu/project/id/731015)]([http://mousse-project.org/](https://cordis.europa.eu/project/id/731015))).
 
