@@ -24,7 +24,7 @@ In a nutshell, ID10M is a novel framework consisting of systems, training and va
 
 <br>
 
-# Silver Data
+# Training and Development Data
 Here you can find the automatically-created data that we used to train and evaluate our systems:
 
 | Language | Train | Dev | Sentences | Tokens | Idioms | B | I | O | Literal |
@@ -44,7 +44,7 @@ We underline that the just reported training data are automatically produced, he
 
 <br>
 
-# Gold Data
+# Test Data
 Here you can find the test sets used to evaluate our systems:
 
 | Language | Test | Sentences | Tokens | Idioms | B | I | O | Seen | Unseen | Literal |
@@ -54,7 +54,7 @@ Here you can find the test sets used to evaluate our systems:
 | Italian | [test_italian.tsv](resources/bio_format/italian/test_italian.tsv) | 200 | 5043 | 139 | 155 | 271 | 4617 | 87 | 52 | 48 |
 | Spanish | [test_spanish.tsv](resources/bio_format/spanish/test_spanish.tsv) | 200 | 2240 | 78 | 133 | 348 | 1759 | 19 | 59 | 66 |
 
-For further details about the produced gold data refer to the **Section 3.2** of the paper.
+For further details about the produced test data refer to the **Section 3.2** of the paper.
 
 <br>
 
