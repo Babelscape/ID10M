@@ -7,16 +7,20 @@ Datasets and source code for the paper [ID10M: Idiom Identification in 10 Langua
 
 #### Bibtex
 ```bibtex
-@inproceedings{tedeschi-etal-2022-idiom,
-    title = "{ID10M}: {Idiom} {I}dentification in 10 {L}anguages",
+@inproceedings{tedeschi-etal-2022-id10m,
+    title = "{ID}10{M}: Idiom Identification in 10 Languages",
     author = "Tedeschi, Simone  and
       Martelli, Federico  and
       Navigli, Roberto",
     booktitle = "Findings of the Association for Computational Linguistics: NAACL 2022",
     month = jul,
     year = "2022",
-    address = "Seattle, Washington ",
+    address = "Seattle, United States",
     publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-naacl.208",
+    doi = "10.18653/v1/2022.findings-naacl.208",
+    pages = "2715--2726",
+    abstract = "Idioms are phrases which present a figurative meaning that cannot be (completely) derived by looking at the meaning of their individual components.Identifying and understanding idioms in context is a crucial goal and a key challenge in a wide range of Natural Language Understanding tasks. Although efforts have been undertaken in this direction, the automatic identification and understanding of idioms is still a largely under-investigated area, especially when operating in a multilingual scenario. In this paper, we address such limitations and put forward several new contributions: we propose a novel multilingual Transformer-based system for the identification of idioms; we produce a high-quality automatically-created training dataset in 10 languages, along with a novel manually-curated evaluation benchmark; finally, we carry out a thorough performance analysis and release our evaluation suite at https://github.com/Babelscape/ID10M.",
 }
 ```
 
